@@ -1,0 +1,12 @@
+{
+    "language_screen_visited": {},
+    "content_language_selected": {
+        "content_language": "string",
+        "source": "string"
+    },
+    "language_continue_clicked": {},
+    "truecaller_auth_status": {
+        "status": "string"
+    },
+    "phone_number_screen_visited": {}
+}
